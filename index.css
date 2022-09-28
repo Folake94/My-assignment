@@ -1,0 +1,35 @@
+body {
+  background-color: palegreen;
+  text-align: center;
+}
+
+.container {
+  display: inline;
+  font-size: 20px;
+  font-family: "Roboto";
+}
+.Welcome :hover {
+  color: red;
+  font-family: "Roboto";
+}
+
+hr {
+  border: 2px dotted;
+  width: 50px;
+  color: grey;
+}
+
+#About {
+  font-family: "Roboto";
+  font-size: large;
+}
+
+#Pricing {
+  font-family: "Roboto";
+  font-size: large;
+}
+
+#Contact {
+  font-family: "Roboto";
+  font-size: large;
+}
